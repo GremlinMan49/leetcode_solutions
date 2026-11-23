@@ -1,0 +1,23 @@
+name: Sync LeetCode Solutions
+
+on:
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically once a day (optional)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Sync LeetCode
+        uses: joshcai/leetcode-sync@v1.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode-sessionId: ${{ secrets.LEETCODE_SESSION }}
+          leetcode-csrfToken: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          user-slug: gremlinman
+          langs: 'cpp,python3,java' # Change or add your programming languages here
