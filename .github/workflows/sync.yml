@@ -17,7 +17,5 @@ jobs:
         uses: joshcai/leetcode-sync@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          leetcode-sessionId: ${{ secrets.LEETCODE_SESSION }}
-          leetcode-csrfToken: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          user-slug: gremlinman
-          langs: 'c,python3'
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
