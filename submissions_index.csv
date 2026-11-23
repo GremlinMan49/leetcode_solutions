@@ -1,0 +1,60 @@
+number,title,difficulty,date_solved,language,file,submission_id
+1,Two Sum,Easy,2026-11-09,python3,0001-two-sum.py,2192382440
+2,Add Two Numbers,Medium,2026-11-09,python3,0002-add-two-numbers.py,2192443813
+3,Longest Substring Without Repeating Characters,Medium,2026-10-19,c,0003-longest-substring-without-repeating-characters.c,2176296015
+4,Median of Two Sorted Arrays,Hard,2026-10-20,c,0004-median-of-two-sorted-arrays.c,2176785506
+7,Reverse Integer,Medium,2026-11-09,python3,0007-reverse-integer.py,2192507728
+9,Palindrome Number,Easy,2026-09-26,c,0009-palindrome-number.c,2153289994
+10,Regular Expression Matching,Hard,2026-11-09,python3,0010-regular-expression-matching.py,2192464504
+11,Container With Most Water,Medium,2026-11-10,python3,0011-container-with-most-water.py,2193132980
+12,Integer to Roman,Medium,2026-11-16,python3,0012-integer-to-roman.py,2196735923
+13,Roman to Integer,Easy,2026-11-16,python3,0013-roman-to-integer.py,2196736557
+14,Longest Common Prefix,Easy,2026-11-16,python3,0014-longest-common-prefix.py,2196736937
+15,3Sum,Medium,2026-11-16,python3,0015-3sum.py,2196737334
+16,3Sum Closest,Medium,2026-11-16,python3,0016-3sum-closest.py,2196737703
+17,Letter Combinations of a Phone Number,Medium,2026-11-16,python3,0017-letter-combinations-of-a-phone-number.py,2196738163
+18,4Sum,Medium,2026-11-16,python3,0018-4sum.py,2196738921
+19,Remove Nth Node From End of List,Medium,2026-11-16,python3,0019-remove-nth-node-from-end-of-list.py,2196739164
+20,Valid Parentheses,Easy,2026-11-16,python3,0020-valid-parentheses.py,2196739540
+21,Merge Two Sorted Lists,Easy,2026-11-16,python3,0021-merge-two-sorted-lists.py,2196739795
+22,Generate Parentheses,Medium,2026-11-16,python3,0022-generate-parentheses.py,2196740067
+23,Merge k Sorted Lists,Hard,2026-11-16,python3,0023-merge-k-sorted-lists.py,2196740278
+24,Swap Nodes in Pairs,Medium,2026-11-16,python3,0024-swap-nodes-in-pairs.py,2196740620
+25,Reverse Nodes in k-Group,Hard,2026-11-16,python3,0025-reverse-nodes-in-k-group.py,2196741017
+26,Remove Duplicates from Sorted Array,Easy,2026-11-16,python3,0026-remove-duplicates-from-sorted-array.py,2197122739
+27,Remove Element,Easy,2026-11-18,python3,0027-remove-element.py,2198460564
+28,Find the Index of the First Occurrence in a String,Easy,2026-11-18,python3,0028-find-the-index-of-the-first-occurrence-in-a-string.py,2198461423
+29,Divide Two Integers,Medium,2026-11-18,python3,0029-divide-two-integers.py,2198466152
+30,Substring with Concatenation of All Words,Hard,2026-11-20,python3,0030-substring-with-concatenation-of-all-words.py,2199914748
+32,Longest Valid Parentheses,Hard,2026-11-20,python3,0032-longest-valid-parentheses.py,2199915138
+33,Search in Rotated Sorted Array,Medium,2026-11-22,c,0033-search-in-rotated-sorted-array.c,2200731259
+35,Search Insert Position,Easy,2026-11-18,python3,0035-search-insert-position.py,2198465941
+41,First Missing Positive,Hard,2026-11-20,python3,0041-first-missing-positive.py,2199916861
+42,Trapping Rain Water,Hard,2026-11-20,python3,0042-trapping-rain-water.py,2199916537
+44,Wildcard Matching,Hard,2026-11-18,python3,0044-wildcard-matching.py,2198458848
+51,N-Queens,Hard,2026-11-20,python3,0051-n-queens.py,2199917493
+52,N-Queens II,Hard,2026-11-20,python3,0052-n-queens-ii.py,2199917686
+53,Maximum Subarray,Medium,2026-11-18,python3,0053-maximum-subarray.py,2198468560
+54,Spiral Matrix,Medium,2026-11-22,c,0054-spiral-matrix.c,2201130875
+55,Jump Game,Medium,2026-11-22,c,0055-jump-game.c,2201131076
+56,Merge Intervals,Medium,2026-11-22,c,0056-merge-intervals.c,2201131359
+57,Insert Interval,Medium,2026-11-22,c,0057-insert-interval.c,2201131800
+58,Length of Last Word,Easy,2026-11-22,c,0058-length-of-last-word.c,2201132067
+59,Spiral Matrix II,Medium,2026-11-22,c,0059-spiral-matrix-ii.c,2201132216
+60,Permutation Sequence,Hard,2026-11-22,c,0060-permutation-sequence.c,2201132394
+61,Rotate List,Medium,2026-11-22,c,0061-rotate-list.c,2201132553
+62,Unique Paths,Medium,2026-11-22,c,0062-unique-paths.c,2201132698
+63,Unique Paths II,Medium,2026-11-22,c,0063-unique-paths-ii.c,2201132833
+64,Minimum Path Sum,Medium,2026-11-22,c,0064-minimum-path-sum.c,2201132966
+65,Valid Number,Hard,2026-11-22,c,0065-valid-number.c,2201133122
+66,Plus One,Easy,2026-11-18,python3,0066-plus-one.py,2198469493
+67,Add Binary,Easy,2026-11-18,python3,0067-add-binary.py,2198471075
+68,Text Justification,Hard,2026-11-20,python3,0068-text-justification.py,2199918167
+69,Sqrt(x),Easy,2026-11-18,python3,0069-sqrtx.py,2198473165
+70,Climbing Stairs,Easy,2026-11-18,python3,0070-climbing-stairs.py,2198474232
+71,Simplify Path,Medium,2026-11-22,c,0071-simplify-path.c,2201133301
+83,Remove Duplicates from Sorted List,Easy,2026-11-18,python3,0083-remove-duplicates-from-sorted-list.py,2198474809
+84,Largest Rectangle in Histogram,Hard,2026-11-20,python3,0084-largest-rectangle-in-histogram.py,2199918538
+88,Merge Sorted Array,Easy,2026-11-18,python3,0088-merge-sorted-array.py,2198475370
+94,Binary Tree Inorder Traversal,Easy,2026-11-18,python3,0094-binary-tree-inorder-traversal.py,2198476136
+1606,Find Servers That Handled Most Number of Requests,Hard,2026-11-09,python3,1606-find-servers-that-handled-most-number-of-requests.py,2192444249
